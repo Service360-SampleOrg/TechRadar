@@ -2,6 +2,10 @@
 
 This repo contains Service360 TechRadar.
 
+|Type|
+|---|
+|Support|
+
 ## What is the Tech Radar?
 The Tech Radar is a list of technologies, complemented by an 
 assessment result, called ring assignment. 
